@@ -12,7 +12,9 @@
             "value": "RIPA-Dev-RG"
         },
         "addressSpaces": {
-            "value": "172.16.0.0/16"
+            "value": [
+                "172.16.0.0/16"
+            ]
         },
         "ipv6Enabled": {
             "value": false
