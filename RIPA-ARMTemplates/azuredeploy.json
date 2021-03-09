@@ -12,7 +12,7 @@
             "type": "string"
         },
         "addressSpaces": {
-            "type": "array"
+            "type": "string"
         },
         "ipv6Enabled": {
             "type": "bool"
@@ -47,15 +47,14 @@
             "tags": {},
             "properties": {
                 "addressSpace": {
-                    "addressPrefixes": [
-                        "172.16.0.0/16"
-                    ]
+                    "addressPrefixes": "[parameters('addressSpaces')]"
+
                 },
                 "subnets": [
                     {
                         "name": "[parameters('subnet0_name')]",
                         "properties": {
-                            "addressPrefix": "172.16.0.0/24"
+                            "addressPrefix": "[parameters('subnet0_addressRange')]"
                         }
                     }
                 ],
