@@ -6,10 +6,10 @@
             "value": "westus"
         },
         "virtualNetworkName": {
-            "value": "RIPA-Dev-VNet"
+            "value": "#arm_VirtualNetworkName#"
         },
         "resourceGroup": {
-            "value": "RIPA-Dev-RG"
+            "value": "#arm_resourceGroupName#"
         },
         "addressSpaces": {
             "value": [
@@ -23,7 +23,7 @@
             "value": 1
         },
         "subnet0_name": {
-            "value": "RIPA-Dev-Subnet1"
+            "value": "#arm_VNetSubnetName#"
         },
         "subnet0_addressRange": {
             "value": "172.16.0.0/24"
