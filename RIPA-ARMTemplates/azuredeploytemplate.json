@@ -4,12 +4,15 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "subscriptions_6047d0c386c538004b070001_displayName": {
+            "defaultValue": "Visual Studio Enterprise Subscription",
             "type": "SecureString"
         },
         "subscriptions_6047d0c486c538004b070002_displayName": {
+            "defaultValue": "Visual Studio Enterprise Subscription",
             "type": "SecureString"
         },
         "users_1_lastName": {
+            "defaultValue": "Cherukumalli",
             "type": "SecureString"
         },
         "vaults_ripa_kv_name": {
