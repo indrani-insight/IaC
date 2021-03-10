@@ -61,7 +61,7 @@
                     "value": "ripacontentsa-dev-pe"
                 },
                 "storageAccounts_ripansgflowlogssa_name": {
-                    "value": "ripansgflowlogssa"
+                    "value": "ripadevnsgflowlogssa"
                 },
                 "networkSecurityGroups_ripa_apim_nsg_name": {
                     "value": "ripa-dev-apim-nsg"
