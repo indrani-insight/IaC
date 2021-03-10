@@ -3,73 +3,73 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "vaults_ripa_dev_kv_name": {
-            "value": "ripa-dev-kv"
+            "value": "ripa-dev-kv1"
         },
         "sites_ripa_user_dev_api_name": {
-            "value": "ripa-user-dev-api"
+            "value": "ripa-user-dev-api1"
         },
         "serverfarms_ASP_riparg_8e0a_name": {
             "value": "ASP-riparg-8e0a"
         },
         "service_ripa_dev_apim_name": {
-            "value": "ripa-dev-apim"
+            "value": "ripa-dev-apim-west"
         },
         "virtualNetworks_ripa_dev_vnet_name": {
-            "value": "ripa-dev-vnet"
+            "value": "ripa-dev-vnet1"
         },
         "privateEndpoints_ripa_dev_ac_pe_name": {
-            "value": "ripa-dev-ac-pe"
+            "value": "ripa-dev-ac-pe1"
         },
         "privateEndpoints_ripa_dev_kv_pe_name": {
-            "value": "ripa-dev-kv-pe"
+            "value": "ripa-dev-kv-pe1"
         },
         "databaseAccounts_ripa_dev_cdb_name": {
-            "value": "ripa-dev-cdb"
+            "value": "ripa-dev-cdb-west"
         },
         "privateEndpoints_ripa_dev_cdb_pe_name": {
-            "value": "ripa-dev-cdb-pe"
+            "value": "ripa-dev-cdb-pe1"
         },
         "storageAccounts_ripadevcontentsa_name": {
-            "value": "ripadevcontentsa"
+            "value": "ripadevcontentsa1"
         },
         "storageAccounts_ripadevfunctionssa_name": {
-            "value": "ripadevfunctionssa"
+            "value": "ripadevfunctionssa1"
         },
         "workspaces_ripa_dev_laws_name": {
-            "value": "ripa-dev-laws"
+            "value": "ripa-dev-laws1"
         },
         "storageAccounts_ripadevnsgflowlogssa_name": {
-            "value": "ripadevnsgflowlogssa"
+            "value": "ripadevnsgflowlogssa1"
         },
         "networkSecurityGroups_ripa_dev_ac_nsg_name": {
-            "value": "ripa-dev-ac-nsg"
+            "value": "ripa-dev-ac-nsg1"
         },
         "networkSecurityGroups_ripa_dev_kv_nsg_name": {
-            "value": "ripa-dev-kv-nsg"
+            "value": "ripa-dev-kv-nsg1"
         },
         "privateEndpoints_ripacontentsa_dev_pe_name": {
-            "value": "ripacontentsa-dev-pe"
+            "value": "ripacontentsa-dev-pe1"
         },
         "networkSecurityGroups_ripa_dev_apim_nsg_name": {
-            "value": "ripa-dev-apim-nsg"
+            "value": "ripa-dev-apim-nsg1"
         },
         "privateDnsZones_privatelink_azconfig_io_name": {
-            "value": "privatelink.azconfig.io"
+            "value": "privatelink1.azconfig.io"
         },
         "configurationStores_ripa_dev_ac_name": {
-            "value": "ripa-dev-ac"
+            "value": "ripa-dev-ac1"
         },
         "privateDnsZones_privatelink_documents_azure_com_name": {
-            "value": "privatelink.documents.azure.com"
+            "value": "privatelink1.documents.azure.com"
         },
         "privateDnsZones_privatelink_vaultcore_azure_net_name": {
-            "value": "privatelink.vaultcore.azure.net"
+            "value": "privatelink1.vaultcore.azure.net"
         },
         "privateDnsZones_privatelink_file_core_windows_net_name": {
-            "value": "privatelink.file.core.windows.net"
+            "value": "privatelink1.file.core.windows.net"
         },
         "actionGroups_Application_Insights_Smart_Detection_name": {
-            "value": "Application Insights Smart Detection"
+            "value": "Application Insights Smart Detection1"
         },
         "networkInterfaces_ripa_ac_pe_nic_0383c265_4117_4882_8471_12de706dfc5e_name": {
             "value": "ripa-ac-pe.nic.0383c265-4117-4882-8471-12de706dfc5e"

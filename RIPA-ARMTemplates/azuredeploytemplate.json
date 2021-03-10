@@ -15,7 +15,7 @@
             "type": "String"
         },
         "service_ripa_dev_apim_name": {
-            "defaultValue": "ripa-dev-apim",
+            "defaultValue": "ripa-dev-apim-west",
             "type": "String"
         },
         "virtualNetworks_ripa_dev_vnet_name": {
@@ -344,7 +344,7 @@
             "type": "microsoft.operationalinsights/workspaces",
             "apiVersion": "2020-10-01",
             "name": "[parameters('workspaces_ripa_dev_laws_name')]",
-            "location": "eastus2",
+            "location": "westus2",
             "properties": {
                 "provisioningState": "Succeeded",
                 "sku": {
