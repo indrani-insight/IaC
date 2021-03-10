@@ -1,0 +1,104 @@
+﻿{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+    "parameters": {
+        
+                "subscriptions_6047d0c386c538004b070001_displayName": {
+                    "value": null
+                },
+                "subscriptions_6047d0c486c538004b070002_displayName": {
+                    "value": null
+                },
+                "users_1_lastName": {
+                    "value": null
+                },
+                "vaults_ripa_kv_name": {
+                    "value": null
+                },
+                "sites_ripa_user_api_name": {
+                    "value": null
+                },
+                "components_ripa_ai_name": {
+                    "value": null
+                },
+                "serverfarms_ASP_riparg_8e0a_name": {
+                    "value": null
+                },
+                "virtualNetworks_ripa_vnet_name": {
+                    "value": null
+                },
+                "privateEndpoints_ripa_ac_pe_name": {
+                    "value": null
+                },
+                "privateEndpoints_ripa_kv_pe_name": {
+                    "value": null
+                },
+                "service_ripa_apim_wus2_name": {
+                    "value": null
+                },
+                "databaseAccounts_ripa_cdb_name": {
+                    "value": null
+                },
+                "privateEndpoints_ripa_cdb_pe_name": {
+                    "value": null
+                },
+                "storageAccounts_ripacontentsa_name": {
+                    "value": null
+                },
+                "storageAccounts_ripafunctionssa_name": {
+                    "value": null
+                },
+                "workspaces_ripa_laws_name": {
+                    "value": null
+                },
+                "networkSecurityGroups_ripa_ac_nsg_name": {
+                    "value": null
+                },
+                "networkSecurityGroups_ripa_kv_nsg_name": {
+                    "value": null
+                },
+                "privateEndpoints_ripacontentsa_pe_name": {
+                    "value": null
+                },
+                "storageAccounts_ripansgflowlogssa_name": {
+                    "value": null
+                },
+                "networkSecurityGroups_ripa_apim_nsg_name": {
+                    "value": null
+                },
+                "configurationStores_ripa_ac_name": {
+                    "value": null
+                },
+                "privateDnsZones_privatelink_azconfig_io_name": {
+                    "value": null
+                },
+                "privateDnsZones_privatelink_documents_azure_com_name": {
+                    "value": null
+                },
+                "privateDnsZones_privatelink_vaultcore_azure_net_name": {
+                    "value": null
+                },
+                "privateDnsZones_privatelink_file_core_windows_net_name": {
+                    "value": null
+                },
+                "actionGroups_Application_Insights_Smart_Detection_name": {
+                    "value": null
+                },
+                "smartdetectoralertrules_failure_anomalies___ripa_ai_name": {
+                    "value": null
+                },
+                "networkInterfaces_ripa_ac_pe_nic_0383c265_4117_4882_8471_12de706dfc5e_name": {
+                    "value": null
+                },
+                "networkInterfaces_ripa_kv_pe_nic_97a2cb6f_8769_4be9_8896_fd575fb00836_name": {
+                    "value": null
+                },
+                "networkInterfaces_ripa_cdb_pe_nic_e262db36_e656_4e52_81ca_c84ca3e37397_name": {
+                    "value": null
+                },
+                "networkInterfaces_ripacontentsa_pe_nic_c12b90f9_c272_4388_bdcb_24fa0e644a52_name": {
+                    "value": null
+                }
+            
+    }
+}
