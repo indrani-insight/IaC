@@ -27,6 +27,7 @@ steps:
     Contents: 'azuredeploy*.json'
     TargetFolder: '$(build.artifactStagingDirectory)'
 - bash: echo $(build.artifactStagingDirectory)
+- bash: echo $(System.DefaultWorkingDirectory)
 
     
 
