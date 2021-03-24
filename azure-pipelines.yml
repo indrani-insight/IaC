@@ -26,6 +26,9 @@ steps:
     SourceFolder: 'RIPA-ARMTemplates'
     Contents: 'azuredeploy*.json'
     TargetFolder: '$(build.artifactStagingDirectory)'
+- bash: echo $(build.artifactStagingDirectory)
+
+    
 
 - task: PublishBuildArtifacts@1
   inputs:
